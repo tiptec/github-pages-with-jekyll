@@ -1,4 +1,4 @@
-title: #Codespanalytics
+title: Codespanalytics
 author: Olabode Ogunfuye
 email: bunday@codespark.ng
 description: > # this means to ignore newlines until "baseurl:"
@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # social links
 twitter_username: BundayWrks
-github_username:  tiptec
+github_username: tiptec
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
