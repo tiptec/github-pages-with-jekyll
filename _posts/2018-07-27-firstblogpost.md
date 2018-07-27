@@ -1,3 +1,8 @@
+---
+title: "Our Mission"
+date: 2018-07-27
+---
+
 In this episode of Codespanalytics, We will give your a brief summary of our aims and objectives as an organization and outline the benefits 
 the public stand to gain with this initiative. As Nigeria's renown and most trusted Edtech Non profit organization, we run survey and share
 our results to help the public identify the gaps and opportunities that exist in the Edtech industry while telling a story of our impact as
