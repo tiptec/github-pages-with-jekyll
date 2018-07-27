@@ -1,4 +1,4 @@
-# Welcome to Codespark Analytics Page
+
 
 My name is **Olabode Ogunfuye** and I am the Program Manager/Co-Founder at Codespark Foundation... We are an EdTech Non-Profit Organization and we turn programming into play for young kids in Nigeria by sparking their interest thus bridging the digital literacy gaps through our efforts.
 
